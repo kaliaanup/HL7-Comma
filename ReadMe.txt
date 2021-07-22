@@ -44,3 +44,19 @@ The above columns are generated from XML files using a Java Code. These XML file
 	2. #Precision. 	0 indicates the lowest, 100 indicates the highest
 	3. #Comprehensibility. 0 indicates the lowest, 100 indicates the highest
 
+Please cite us
+
+```
+@article{Telang+PLOSONE+2015,
+ author = {Telang, Pankaj R. and Kalia, Anup K. and Singh, Munindar P.},
+ doi = {10.1371/journal.pone.0141202},
+ journal = {PLOS ONE},
+ keywords = {},
+ number = {11},
+ pages = {e0141202},
+ title = {Modeling Healthcare Processes Using Commitments: An Empirical Evaluation},
+ url = {https://app.dimensions.ai/details/publication/pub.1009952731 and https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0141202&type=printable},
+ volume = {10},
+ year = {2015}
+}
+```
